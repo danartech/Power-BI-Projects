@@ -4,7 +4,7 @@ Welcome to the Power BI Projects repository! This repository showcases my projec
 
 ## Projects
 
-### [Power BI Project](https://github.com/danartech/Power-BI-Project)
+### [Power BI Survey Analysis Project](https://github.com/danartech/Power-BI-Project)
 - **Description:** Developed interactive dashboards and reports using Power BI to visualize business data.
 
 ## Contact
